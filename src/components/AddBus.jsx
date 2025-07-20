@@ -26,10 +26,7 @@ const AddBus = () => {
                           <label htmlFor="" className="form label">Route(Ending)</label>
                           <input type="text" className="form-control" />
                       </div>
-                      <div className="col-12 col-md-6 col-lg-3 col-xl-3 col-xxl-3">
-                          <label htmlFor="" className="form label">Driver name</label>
-                          <input type="text" className="form-control" />
-                      </div>
+                     
                       <div className="col-12 col-md-6 col-lg-3 col-xl-3 col-xxl-3">
                           <label htmlFor="" className="form label">Driver number</label>
                           <input type="text" className="form-control" />

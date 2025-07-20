@@ -6,7 +6,7 @@ const Caroosal = () => {
         <div id="carouselExample" class="carousel slide">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://i.pinimg.com/564x/3c/50/f7/3c50f70269bd08ef7080bbec88403624.jpg" class="d-block w-100" alt="..."/>
+      <img src="" class="d-block w-100" alt="..."/>
     </div>
     <div class="carousel-item">
       <img src="https://i.pinimg.com/736x/7f/5a/8e/7f5a8e2908d675d14db1138d86d6c928.jpg" class="d-block w-100" alt="..."/>
